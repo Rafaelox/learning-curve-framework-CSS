@@ -1,0 +1,38 @@
+body{
+	background: #e0d7d7;
+}
+
+div{
+	margin: 1em;
+	padding: 1em;
+	background: rgb(244, 227, 227);
+	border: solid 2px #ccc;
+	border-radius: 10px;
+
+}
+.header{
+	text-align: center;
+}
+.import{
+	 font-weight: bold;
+}
+
+.nav ul{
+	padding-left: 0;
+	background: rgba(0,0,0,.1);
+}
+.nav ul li{
+	padding:1em; 
+	list-style: none;
+	background: #ccc;
+}
+.nav ul li:hover{
+	background: white
+}
+
+.hide{
+	display: none;
+}
+.none{
+	clear:none;
+}
